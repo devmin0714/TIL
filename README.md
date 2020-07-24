@@ -15,3 +15,7 @@
 7/23 : JS 학습
 
 - 키워드 : Fucntion, Mathexpressions, 텍스트 연결, if, 비교/논리 연산자, Array, for loop
+
+7/23 : JS 및 Node Js 학습
+
+- 키워드 : 데이터타입, String/Template literal, String/Number의 변환, Date, Math, Object

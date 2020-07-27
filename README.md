@@ -23,3 +23,7 @@
 7/25 : JS, instaJS 클론코딩
 
 - 키워드 : Scope, Class, Arrow function, JS위치, DOM, Event, 로그인 화면 구현
+
+7/26 : instaJS 클론코딩
+
+- 키워드 : NodeJS - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습

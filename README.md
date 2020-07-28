@@ -32,4 +32,8 @@
 
 7/27 : instaJS 클론코딩, Recursive, 네트워크
 
-- 키워드 : 로그인 UI, 기능 적용, Revursive(Factorial) 개념, HTTP의 GET과 POST 비교, TCP 3-way Handshake
+- 키워드 : 로그인페이지 UI, 로그인 기능 적용, Revursive(Factorial) 개념, HTTP의 GET과 POST 비교, TCP 3-way Handshake
+
+7/28 : instaJS 클론코딩, js 학습
+
+- 키워드 : 메인페이지 UI, 댓글 기능 적용(댓글 입력 후 엔터키 or 게시 버튼을 클릭하면 게시), 콜스택

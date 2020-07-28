@@ -27,3 +27,9 @@
 7/26 : instaJS 클론코딩
 
 - 키워드 : NodeJS - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습
+
+## 1주차 7/27 ~ 8/2 목표 : instaJS, instaReact 클론코딩 마무리 (full stack), Recursive, 네트워크
+
+7/27 : instaJS 클론코딩, Recursive, 네트워크
+
+- 키워드 : 로그인 UI, 기능 적용, Revursive(Factorial) 개념, HTTP의 GET과 POST 비교, TCP 3-way Handshake

@@ -12,16 +12,10 @@
 
 - **목표 : HTML, CSS, JS 정리, InstaReact 클론코딩 마무리(JS+NodeJS) 시작**
 
-|                   날짜                   |                                          학습 키워드                                          |
-| :--------------------------------------: | :-------------------------------------------------------------------------------------------: |
-|                   7/22                   | HTML - Element/Attribute, Sementic Tag<br>CSS - Property, Value, Box-model, Flexbox, CSS Grid |
-|                   7/23                   |                     JS - Fucntion, Mathexpressions, 텍스트 연결, if,<br>                      |
-|    비교/논리 연산자, Array, for loop     |
-|                   7/24                   |    JS - 데이터타입, String/Template literal, String/Number의 변환, Date, Math, Object<br>     |
-| InstaJS 클론코딩 - NodeJs 서버 구동방법  |
-|                   7/25                   |                   JS - Scope, Class, Arrow function, JS위치, DOM, Event<br>                   |
-| InstaJS 클론코딩 - 로그인 페이지 UI 구현 |
-|                   7/26                   |             InstaJS 클론코딩 - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습             |
+| 날짜 |                                          학습 키워드                                          |
+| :--: | :-------------------------------------------------------------------------------------------: |
+| 7/22 | HTML - Element/Attribute, Sementic Tag<br>CSS - Property, Value, Box-model, Flexbox, CSS Grid |
+| 7/23 |     JS - Fucntion, Mathexpressions, 텍스트 연결, if,<br>비교/논리 연산자, Array, for loop     | 7/24 | JS - 데이터타입, String/Template literal, String/Number의 변환, Date, Math, Object<br>InstaJS 클론코딩 - NodeJs 서버 구동방법 | 7/25 | JS - Scope, Class, Arrow function, JS위치, DOM, Event<br>InstaJS 클론코딩 - 로그인 페이지 UI 구현 | 7/26 | InstaJS 클론코딩 - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습 |
 
 ---
 
@@ -33,20 +27,13 @@
 - 코테 기본개념 학습
 - 네트워크 학습
 
-| 날짜 |                     학습 키워드                      |
-| :--: | :--------------------------------------------------: |
-| 7/27 | InstaJS 클론코딩 - 로그인페이지 로그인 기능 적용<br> |
-
-코딩테스트 - Recursion(Factorial) 개념<br>
-CS - HTTP의 GET과 POST 비교, TCP 3-way Handshake |
-| 7/28 | InstaJS 클론코딩 - 메인페이지 UI, 댓글 기능 적용(댓글 입력 후 엔터키 or 게시 버튼을 클릭하면 게시)<br>
-JS - 콜스택 개념 |
-| 7/29 | Git Rep 정리-어중간하게 하거나 제대로 학습하지 않은 것은 모두 삭제<br>
-코딩테스트 - Array, Stack, Queue 개념|
-| 7/30 | - |
-| 7/31 | - |
-| 8/1 | - |
-| 8/2 | - |
+| 날짜 |                                                                  학습 키워드                                                                   |
+| :--: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+| 7/27 | InstaJS 클론코딩 - 로그인페이지 로그인 기능 적용<br>코딩테스트 - Recursion(Factorial) 개념<br>CS - HTTP의 GET과 POST 비교, TCP 3-way Handshake |
+| 7/28 |           InstaJS 클론코딩 - 메인페이지 UI, 댓글 기능 적용<br>(댓글 입력 후 엔터키 or 게시 버튼을 클릭하면 게시)<br>JS - 콜스택 개념           | 7/29 | Git Rep 정리-어중간하게 하거나<br>제대로 학습하지 않은 것은 모두 삭제<br>코딩테스트 - Array, Stack, Queue 개념 | 7/30 | - |
+| 7/31 |                                                                       -                                                                        |
+| 8/1  |                                                                       -                                                                        |
+| 8/2  |                                                                       -                                                                        |
 
 ---
 

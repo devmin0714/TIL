@@ -12,13 +12,13 @@
 
 - **목표 : HTML, CSS, JS 정리**
 
-| 날짜 |                                                                                                    학습 키워드 |
-| :--- | -------------------------------------------------------------------------------------------------------------: |
-| 7/22 |                            Element/Attribute, Sementic Tag, Property/Value, Box-model, SASS, Flexbox, CSS Grid |
-| 7/23 |                                  Fucntion, Mathexpressions, 텍스트 연결, if, 비교/논리 연산자, Array, for loop |
+| 날짜 | 학습 키워드                                                                                                    |
+| :--- | :------------------------------------------------------------------------------------------------------------- |
+| 7/22 | Element/Attribute, Sementic Tag, Property/Value, Box-model, SASS, Flexbox, CSS Grid                            |
+| 7/23 | Fucntion, Mathexpressions, 텍스트 연결, if, 비교/논리 연산자, Array, for loop                                  |
 | 7/24 | InstaJS 클론코딩, 데이터타입, String/Template literal, String/Number의 변환, Date, Math, Object, 서버 구동방법 |
-| 7/25 |                           InstaJS 클론코딩, Scope, Class, Arrow function, JS위치, DOM, Event, 로그인 화면 구현 |
-| 7/26 |                                  InstaJS 클론코딩, NodeJS - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습 |
+| 7/25 | InstaJS 클론코딩, Scope, Class, Arrow function, JS위치, DOM, Event, 로그인 화면 구현                           |
+| 7/26 | InstaJS 클론코딩, NodeJS - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습                                  |
 
 ---
 

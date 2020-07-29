@@ -12,17 +12,16 @@
 
 - **목표 : HTML, CSS, JS 정리, InstaReact 클론코딩 마무리(JS+NodeJS) 시작**
 
-|                        날짜                         |                                      학습 키워드                                       |
-| :-------------------------------------------------: | :------------------------------------------------------------------------------------: |
-|                        7/22                         |                       HTML - Element/Attribute, Sementic Tag<br>                       |
-| CSS - Property, Value, Box-model, Flexbox, CSS Grid |
-|                        7/23                         |                  JS - Fucntion, Mathexpressions, 텍스트 연결, if,<br>                  |
-|          비교/논리 연산자, Array, for loop          |
-|                        7/24                         | JS - 데이터타입, String/Template literal, String/Number의 변환, Date, Math, Object<br> |
-|       InstaJS 클론코딩 - NodeJs 서버 구동방법       |
-|                        7/25                         |               JS - Scope, Class, Arrow function, JS위치, DOM, Event<br>                |
-|      InstaJS 클론코딩 - 로그인 페이지 UI 구현       |
-|                        7/26                         |         InstaJS 클론코딩 - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습          |
+|                   날짜                   |                                          학습 키워드                                          |
+| :--------------------------------------: | :-------------------------------------------------------------------------------------------: |
+|                   7/22                   | HTML - Element/Attribute, Sementic Tag<br>CSS - Property, Value, Box-model, Flexbox, CSS Grid |
+|                   7/23                   |                     JS - Fucntion, Mathexpressions, 텍스트 연결, if,<br>                      |
+|    비교/논리 연산자, Array, for loop     |
+|                   7/24                   |    JS - 데이터타입, String/Template literal, String/Number의 변환, Date, Math, Object<br>     |
+| InstaJS 클론코딩 - NodeJs 서버 구동방법  |
+|                   7/25                   |                   JS - Scope, Class, Arrow function, JS위치, DOM, Event<br>                   |
+| InstaJS 클론코딩 - 로그인 페이지 UI 구현 |
+|                   7/26                   |             InstaJS 클론코딩 - 로그인, 회원가입, 계정삭제, 비밀번호 업데이트 학습             |
 
 ---
 
@@ -55,8 +54,8 @@ JS - 콜스택 개념 |
 
 **목표**
 
--
--
+## -
+
 -
 
 | 날짜 | 학습 키워드 |
@@ -75,8 +74,8 @@ JS - 콜스택 개념 |
 
 **목표**
 
--
--
+## -
+
 -
 
 | 날짜 | 학습 키워드 |
@@ -95,8 +94,8 @@ JS - 콜스택 개념 |
 
 **목표**
 
--
--
+## -
+
 -
 
 | 날짜 | 학습 키워드 |
@@ -115,8 +114,8 @@ JS - 콜스택 개념 |
 
 **목표**
 
--
--
+## -
+
 -
 
 | 날짜 | 학습 키워드 |
@@ -135,8 +134,8 @@ JS - 콜스택 개념 |
 
 **목표**
 
--
--
+## -
+
 -
 
 | 날짜 | 학습 키워드 |
@@ -155,8 +154,8 @@ JS - 콜스택 개념 |
 
 **목표**
 
--
--
+## -
+
 -
 
 | 날짜 | 학습 키워드 |
@@ -175,8 +174,8 @@ JS - 콜스택 개념 |
 
 **목표**
 
--
--
+## -
+
 -
 
 | 날짜 | 학습 키워드 |

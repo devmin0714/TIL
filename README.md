@@ -63,7 +63,7 @@
 | 8/3  | 자료구조 - AVL 트리, 그래프, 해쉬<br>[JS](https://github.com/blackb0x0714/JS) - 9 ~ 16<br>[NodeJS](https://github.com/blackb0x0714/JS) - 1 ~ 7 |
 | 8/4  |                  [JS](https://github.com/blackb0x0714/JS) - 17 ~ 29<br>[NodeJS](https://github.com/blackb0x0714/JS) - 8 ~ 11                   |
 | 8/5  |                                             [MongoDB](https://github.com/blackb0x0714/JS) - 1 ~ 11                                             |
-| 8/6  |                                                                       -                                                                        |
+| 8/6  |          [JS 100제](https://github.com/blackb0x0714/CodingTest) - 1 ~ 25<br>[ECMAScript](https://github.com/blackb0x0714/JS) - 1 ~ 6           |
 | 8/7  |                                                                       -                                                                        |
 | 8/8  |                                                                       -                                                                        |
 | 8/9  |                                                                       -                                                                        |

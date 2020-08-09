@@ -65,7 +65,7 @@
 | 8/5  |                                             [MongoDB](https://github.com/blackb0x0714/JS) - 1 ~ 11                                             |
 | 8/6  |          [JS 100제](https://github.com/blackb0x0714/CodingTest) - 1 ~ 25<br>[ECMAScript](https://github.com/blackb0x0714/JS) - 1 ~ 6           |
 | 8/7  |         [JS 100제](https://github.com/blackb0x0714/CodingTest) - 26 ~ 35<br>[ECMAScript](https://github.com/blackb0x0714/JS) - 7 ~ 10          |
-| 8/8  |                                                                       -                                                                        |
+| 8/8  |                                                                      휴식                                                                      |
 | 8/9  |                                                                       -                                                                        |
 
 [Top](#TIL)

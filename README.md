@@ -66,7 +66,7 @@
 | 8/6  |          [JS 100제](https://github.com/blackb0x0714/CodingTest) - 1 ~ 25<br>[ECMAScript](https://github.com/blackb0x0714/JS) - 1 ~ 6           |
 | 8/7  |         [JS 100제](https://github.com/blackb0x0714/CodingTest) - 26 ~ 35<br>[ECMAScript](https://github.com/blackb0x0714/JS) - 7 ~ 10          |
 | 8/8  |                                                                      휴식                                                                      |
-| 8/9  |                                                                       -                                                                        |
+| 8/9  |                                                                      휴식                                                                      |
 
 [Top](#TIL)
 
@@ -76,7 +76,9 @@
 
 ### 목표
 
--
+- JS 기본개념 마무리
+- JS 100제 마무리
+- 데이터베이스 학습
 
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |

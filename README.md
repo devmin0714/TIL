@@ -85,7 +85,7 @@
 | 8/10 | [JS 100제](https://github.com/blackb0x0714/CodingTest) - 36 ~ 40<br>[ECMAScript](https://github.com/blackb0x0714/JS) - 11 ~ 12 |
 | 8/11 |                                                      면접에 대한 자료수집                                                      |
 | 8/12 | [John Ahn님 노드와 리액트 기초강의 수강](https://www.youtube.com/watch?v=fgoMqmNKE18&list=PL9a7QRYt5fqkZC9jc7jntD1WuAogjo_9T&index=1)|
-| 8/13 |                                                               -                                                                |
+| 8/13 | 프로그래머스 레벨1 문제풀이, 브라우저렌더링, 호이스팅, this개념정리 |
 | 8/14 |                                                               -                                                                |
 | 8/15 |                                                               -                                                                |
 | 8/16 |                                                               -                                                                |

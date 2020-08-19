@@ -103,8 +103,8 @@
 
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |
-| 8/17 | praticeBlog-Navigation Menu|
-| 8/18 |      -      |
+| 8/17 | practiceBlog - Navigation Menu|
+| 8/18 |practiceBlog - Responsive Navigation Menu|
 | 8/19 |      -      |
 | 8/20 |      -      |
 | 8/21 |      -      |

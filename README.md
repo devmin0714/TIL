@@ -105,7 +105,7 @@
 | :--: | :---------: |
 | 8/17 | practiceBlog - Navigation Menu|
 | 8/18 |practiceBlog - Responsive Navigation Menu|
-| 8/19 |      -      |
+| 8/19 |생활코딩 - JS,리액트|
 | 8/20 |      -      |
 | 8/21 |      -      |
 | 8/22 |      -      |

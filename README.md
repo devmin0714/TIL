@@ -124,7 +124,7 @@
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |
 | 8/24 |[생활코딩 - Git1, DATABASE1, AWS1](https://github.com/blackb0x0714/JS)|
-| 8/25 |      -      |
+| 8/25 |[생활코딩 - DATABASE2-MySQL, Node.js](https://github.com/blackb0x0714/JS)|
 | 8/26 |      -      |
 | 8/27 |      -      |
 | 8/28 |      -      |

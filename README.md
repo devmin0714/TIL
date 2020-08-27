@@ -119,13 +119,13 @@
 
 ### 목표
 
--
+- 생활코딩으로 기초 개념다지기
 
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |
 | 8/24 |[생활코딩 - Git1, DATABASE1, AWS1](https://github.com/blackb0x0714/JS)|
 | 8/25 |[생활코딩 - DATABASE2-MySQL, Node.js](https://github.com/blackb0x0714/JS)|
-| 8/26 |      -      |
+| 8/26 |[생활코딩 - Node.js, Express](https://github.com/blackb0x0714/JS)|
 | 8/27 |      -      |
 | 8/28 |      -      |
 | 8/29 |      -      |

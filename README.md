@@ -129,7 +129,7 @@
 | 8/27 |[생활코딩 - React class와 function style coding](https://github.com/blackb0x0714/JS)|
 | 8/28 |휴식|
 | 8/29 |개인공부|
-| 8/30 |      -      |
+| 8/30 |개인공부|
 
 [Top](#TIL)
 

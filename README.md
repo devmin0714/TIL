@@ -184,7 +184,7 @@
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |
 | 9/14 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 1 ~ 10|
-| 9/15 |      -      |
+| 9/15 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 11 ~ 20|
 | 9/16 |      -      |
 | 9/17 |      -      |
 | 9/18 |      -      |

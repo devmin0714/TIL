@@ -186,8 +186,8 @@
 | 9/14 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 1 ~ 10|
 | 9/15 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 11 ~ 20|
 | 9/16 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 21 ~ 30|
-| 9/17 |      -      |
-| 9/18 |      -      |
+| 9/17 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 31 ~ 40|
+| 9/18 | |
 | 9/19 |      -      |
 | 9/20 |      -      |
 

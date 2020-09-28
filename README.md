@@ -209,7 +209,7 @@
 | 9/24 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 51 ~ 60|
 | 9/25 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 61 ~ 70|
 | 9/26 |휴식|
-| 9/27 ||
+| 9/27 |휴식|
 
 [Top](#TIL)
 

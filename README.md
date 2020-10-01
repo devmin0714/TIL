@@ -226,7 +226,7 @@
 | :--: | :---------: |
 | 9/28 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 71 ~ 80|
 | 9/29 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 81 ~ 90|
-| 9/30 ||
+| 9/30 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 91 ~ 100|
 | 10/1 ||
 | 10/2 ||
 | 10/3 ||

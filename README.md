@@ -228,7 +228,7 @@
 | 9/29 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 81 ~ 90|
 | 9/30 |[JS 100제](https://github.com/blackb0x0714/CodingTest) - 91 ~ 100|
 | 10/1 |휴식|
-| 10/2 ||
+| 10/2 |휴식|
 | 10/3 ||
 | 10/4 ||
 

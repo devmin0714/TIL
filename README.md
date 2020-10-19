@@ -271,7 +271,7 @@
 | 10/16 |[react-boiler-plate](https://github.com/devpark0714/react-boiler-plate) - 프론트엔드 : 로그인, 회원가입, 로그아웃, 인증체크|
 | 10/17 |[react-boiler-plate](https://github.com/devpark0714/react-boiler-plate) - 복습<br>
 [JS 100제](https://github.com/blackb0x0714/CodingTest) - 1 ~ 36|
-| 10/18 ||
+| 10/18 |휴식|
 
 [Top](#TIL)
 

@@ -287,8 +287,8 @@
 | :--: | :---------: |
 | 10/19 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 업로드 페이지<br>[JS 100제](https://github.com/blackb0x0714/CodingTest) - 37 ~ 40|
 | 10/20 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 업로드 페이지 에러|
-| 10/21 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 랜딩페이지 만들기|
-| 10/22 ||
+| 10/21 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 랜딩페이지 - 이미지슬라이더, 더보기 기능|
+| 10/22 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 랜딩페이지 - 체크박스, 라디오박스, 검색기능|
 | 10/23 ||
 | 10/24 ||
 | 10/25 ||

@@ -291,7 +291,27 @@
 | 10/22 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 랜딩페이지 - 체크박스, 라디오박스, 검색기능|
 | 10/23 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 복습|
 | 10/24 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 상세보기페이지|
-| 10/25 ||
+| 10/25 |휴식|
+
+[Top](#TIL)
+
+---
+
+## 🔸 14주차 : 10/26 ~ 11/1
+
+### 목표
+
+-
+
+| 날짜 | 학습 키워드 |
+| :--: | :---------: |
+| 10/26 ||
+| 10/27 ||
+| 10/28 ||
+| 10/29 ||
+| 10/30 ||
+| 10/31 ||
+| 11/1 ||
 
 [Top](#TIL)
 

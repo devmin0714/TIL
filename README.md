@@ -305,7 +305,7 @@
 
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |
-| 10/26 ||
+| 10/26 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 카트 페이지|
 | 10/27 ||
 | 10/28 ||
 | 10/29 ||

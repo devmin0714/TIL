@@ -307,7 +307,7 @@
 | :--: | :---------: |
 | 10/26 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 카트 페이지|
 | 10/27 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 카트 페이지|
-| 10/28 ||
+| 10/28 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 카트 페이지|
 | 10/29 ||
 | 10/30 ||
 | 10/31 ||

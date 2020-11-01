@@ -310,7 +310,7 @@
 | 10/28 |[react-shop-app](https://github.com/devpark0714/react-shop-app/commits/master) - 카트 페이지|
 | 10/29 |프로그래머스 문제풀이, 기술면접 준비|
 | 10/30 |[react-movie-app](https://github.com/devpark0714/react-movie-app) - 초기 세팅, API|
-| 10/31 ||
+| 10/31 |휴식|
 | 11/1 ||
 
 [Top](#TIL)

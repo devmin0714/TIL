@@ -311,7 +311,7 @@
 | 10/29 |프로그래머스 문제풀이, 기술면접 준비|
 | 10/30 |[react-movie-app](https://github.com/devpark0714/react-movie-app) - 초기 세팅, API|
 | 10/31 |휴식|
-| 11/1 ||
+| 11/1 |휴식|
 
 [Top](#TIL)
 

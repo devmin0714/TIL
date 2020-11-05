@@ -327,7 +327,7 @@
 | :--: | :---------: |
 | 11/2 |[react-movie-app](https://github.com/devpark0714/react-movie-app) - 마무리|
 | 11/3 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
-| 11/4 ||
+| 11/4 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/5 ||
 | 11/6 ||
 | 11/7 ||

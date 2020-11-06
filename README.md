@@ -2,7 +2,7 @@
 
 ---
 
-## 🔶 최종목표 : 웹 개발자 (풀스택 지향)
+## 🔶 최종목표 : 풀스택 웹 개발자
 
 - 프로젝트
 - 코딩테스트
@@ -328,7 +328,7 @@
 | 11/2 |[react-movie-app](https://github.com/devpark0714/react-movie-app) - 마무리|
 | 11/3 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/4 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
-| 11/5 ||
+| 11/5 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/6 ||
 | 11/7 ||
 | 11/8 ||

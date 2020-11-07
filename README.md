@@ -329,7 +329,7 @@
 | 11/3 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/4 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/5 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
-| 11/6 ||
+| 11/6 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/7 ||
 | 11/8 ||
 

@@ -330,7 +330,7 @@
 | 11/4 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/5 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/6 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
-| 11/7 ||
+| 11/7 |휴식|
 | 11/8 ||
 
 [Top](#TIL)

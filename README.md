@@ -331,7 +331,28 @@
 | 11/5 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/6 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/7 |휴식|
-| 11/8 ||
+| 11/8 |휴식|
+
+[Top](#TIL)
+
+---
+
+
+## 🔸 16주차 : 11/9 ~ 11/15
+
+### 목표
+
+-
+
+| 날짜 | 학습 키워드 |
+| :--: | :---------: |
+| 11/9 ||
+| 11/10 ||
+| 11/11 ||
+| 11/12 ||
+| 11/13 ||
+| 11/14 ||
+| 11/15 ||
 
 [Top](#TIL)
 

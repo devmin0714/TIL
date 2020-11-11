@@ -347,7 +347,7 @@
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |
 | 11/9 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
-| 11/10 ||
+| 11/10 |CSS|
 | 11/11 ||
 | 11/12 ||
 | 11/13 ||

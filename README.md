@@ -349,7 +349,7 @@
 | 11/9 |[react-youtube-clone](https://github.com/devpark0714/react-youtube-clone|
 | 11/10 |CSS|
 | 11/11 |CSS|
-| 11/12 ||
+| 11/12 |리액트 Review|
 | 11/13 ||
 | 11/14 ||
 | 11/15 ||

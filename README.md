@@ -352,7 +352,27 @@
 | 11/12 |리액트 Review|
 | 11/13 |[react-blog-app](https://github.com/devpark0714/react-blog-app)|
 | 11/14 |[react-blog-app](https://github.com/devpark0714/react-blog-app)|
-| 11/15 ||
+| 11/15 |[react-blog-app](https://github.com/devpark0714/react-blog-app)|
+
+[Top](#TIL)
+
+---
+
+## 🔸 17주차 : 11/16 ~ 11/22
+
+### 목표
+
+-
+
+| 날짜 | 학습 키워드 |
+| :--: | :---------: |
+| 11/16 ||
+| 11/17 ||
+| 11/18 ||
+| 11/19 ||
+| 11/20 ||
+| 11/21 ||
+| 11/22 ||
 
 [Top](#TIL)
 

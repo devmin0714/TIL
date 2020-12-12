@@ -429,8 +429,8 @@
 | 12/7 |[점프 투 파이썬](https://wikidocs.net/book/1) - 숫자열, 문자열 자료형|
 | 12/8 |[점프 투 파이썬](https://wikidocs.net/book/1)- 리스트, 튜플, 딕셔너리, 집합, 불 자료형, 변수|
 | 12/9 |[점프 투 파이썬](https://wikidocs.net/book/1)- if문, while문, for문, 함수|
-| 12/10 |Coursera - Programming for Everybody  |
-| 12/11 ||
+| 12/10 |Coursera - Programming for Everybody|
+| 12/11 |Coursera - Python Data Structure|
 | 12/12 ||
 | 12/13 ||
 

@@ -2,7 +2,7 @@
 
 ---
 
-## TIL은 [Velog](https://velog.io/@blackb0x)에 정리하고 있습니다.
+## TIL 내용은 [Velog](https://velog.io/@blackb0x)에 정리하고 있습니다.
 
 ## 🔸 0주차 : 7/22 ~ 7/26
 

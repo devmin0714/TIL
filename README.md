@@ -395,7 +395,7 @@
 | 1/6 |리액트리뷰, 프로그래머스|
 | 1/7 |벨로그 정리|
 | 1/8 |[ts-lireddit 프로젝트](https://github.com/devpark0714/ts-lireddit)|
-| 1/9 ||
+| 1/9 |프로젝트 리뷰|
 | 1/10 ||
 
 [Top](#TIL)

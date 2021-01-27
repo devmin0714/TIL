@@ -440,7 +440,7 @@
 | 날짜 | 학습 키워드 |
 | :--: | :---------: |
 | 1/25 |CodeKata-1, React Admin|
-| 1/26 ||
+| 1/26 |CodeKata-2, React, Hooks, React Admin|
 | 1/27 ||
 | 1/28 ||
 | 1/29 ||

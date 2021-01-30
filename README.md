@@ -443,7 +443,7 @@
 | 1/26 |CodeKata-2, React, Hooks, React Admin|
 | 1/27 |CodeKata-3, React, Hooks|
 | 1/28 |CodeKata-4, React, Hooks|
-| 1/29 ||
+| 1/29 |휴식|
 | 1/30 ||
 | 1/31 ||
 

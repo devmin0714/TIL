@@ -445,7 +445,7 @@
 | 1/28 |CodeKata-4, React, Hooks|
 | 1/29 |휴식|
 | 1/30 |CodeKata-5|
-| 1/31 ||
+| 1/31 |코드분석|
 
 [Top](#TIL)
 
